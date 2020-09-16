@@ -17,12 +17,8 @@ It's a neat website I'm using to challenge myself by practicing problem solving 
 
 ### Java
 
-* [Square(n) Sum](java/squareSum.java) - 6 kyu
+* [Square(n) Sum](java/squareSum.java) - 8 kyu
 
 ### Python
 
-
-
-
-## Don't be a copycat!
-
+* [Multiples of 3 or 5](python/multiplesOf3Or5.py) - 6 kyu
