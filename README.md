@@ -19,6 +19,7 @@ It's a neat website I'm using to challenge myself by practicing problem solving 
 
 * [Square(n) Sum](java/squareSum.java) - 8 kyu
 * [Remove String Spaces](java/RemoveStringSpaces.java) - 8 kyu
+* [Find the unique number](java/uniqueNumber.java) - 6 kyu
 
 ### Python
 
