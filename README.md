@@ -18,6 +18,7 @@ It's a neat website I'm using to challenge myself by practicing problem solving 
 ### Java
 
 * [Square(n) Sum](java/squareSum.java) - 8 kyu
+* [Remove String Spaces](java/RemoveStringSpaces.java) - 8 kyu
 
 ### Python
 
